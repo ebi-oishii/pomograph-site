@@ -1,0 +1,9 @@
+title: Pomograph
+description: Pomographのサポート・プライバシーポリシー・利用規約・ライセンス
+lang: ja-JP
+timezone: Asia/Tokyo
+url: https://ebi-oishii.github.io
+baseurl: /pomograph-site
+permalink: pretty
+exclude:
+  - README.md
